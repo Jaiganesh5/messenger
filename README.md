@@ -1,6 +1,6 @@
-# messenger
+# Messenger
 
-A new Flutter project.
+A chat application by using Flutter.
 
 ## Getting Started
 
